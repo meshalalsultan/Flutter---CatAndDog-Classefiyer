@@ -1,0 +1,4 @@
+#Fri Sep 25 17:44:49 EDT 2020
+base.0=E\:\\DeepLearningFlutter\\catanddogpredictor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
